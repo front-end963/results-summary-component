@@ -175,6 +175,11 @@ button {
     margin: 10px 0 30px;
 }
 
+button:hover {
+    background-color: var(--LightRoyalBlue);
+    cursor: pointer;
+}
+
 /* desktop design */
 
 @media screen and (min-width: 376px) {
